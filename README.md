@@ -3,5 +3,7 @@ My name is Vincent Boch, I'm 19 years old and I'm studying engineering at the <a
 <br>
 <br>
  <p align=center>
- <img src ="https://github-readme-stats.vercel.app/api?username=Snabeldier&hide=contribs&count_private=true&show_icons=true&hide_border=true&title_color=2792A5&hide_title=true&icon_color=0D3339&theme=github_dark">
+  <a href="#">
+   <img src ="https://github-readme-stats.vercel.app/api?username=Snabeldier&hide=contribs&count_private=true&show_icons=true&hide_border=true&title_color=2792A5&hide_title=true&icon_color=0D3339&theme=github_dark">
+ </a>
 </p>
