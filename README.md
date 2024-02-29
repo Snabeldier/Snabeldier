@@ -1,5 +1,5 @@
 ### Hey👋
-My name is Vincent Boch, I'm 20 years old and I'm studying engineering at the <a href="https://uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a>. Currently I'm learning Python through my studies and sometimes secretly look into the areas of web development. Although I'm fairly limited in time, I work on several community projects in my free time, as well as on my own Minecraft server.
+My name is Vincent Boch, I'm 21 years old and I'm studying engineering at the <a href="https://uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a>. Currently I'm learning Python through my studies and sometimes secretly look into the areas of web development. Although I'm fairly limited in time, I work on several community projects in my free time, as well as on my own Minecraft server.
 <!--
 <br>
 <br>
